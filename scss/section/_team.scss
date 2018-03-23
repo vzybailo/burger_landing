@@ -1,0 +1,23 @@
+.team {
+    background: url("/img/bg/team.jpg")  no-repeat;
+    background-size: cover;
+    justify-content: flex-start;
+    position: relative;
+}
+
+.team__container {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    opacity: 0.93;
+    background-color: #303334;
+    margin-left: 50%;
+  }
+
+  .command__title {
+    font-family: Gagalin;
+    font-size: 72px;
+    color: #f9b43b;
+  }
+
+ 
